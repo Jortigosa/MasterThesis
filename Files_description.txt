@@ -1,0 +1,16 @@
+I would like to add the following three files as a part of my spontaneous application to Vizzuality:
+
+Jorge_Ortigosa_MScThesis.pdf: 
+
+-I wrote my MSc Thesis on the possibility of assessing wind resource on complex terrain using Computational Fluid Techniques, for the commercial software was not able to properly assess wind resource in such areas. The motivation behind the thesis was to contribute to rural electrification and energy access in remote areas by means of renewable energy instead of generators or other pollutants systems. 
+
+BIOMASS_Task5_Users_Guide.pdf: 
+
+-This document is a guide to use a number of R scripts I developed while working within the BIOMASS project at the European Commission Joint Research Centre (JRC). The goal of the scripts was retrieving the outputs of two different models (CBM and GFTM) and, together with data from other sources, calculate a number of indicators (based on the IPCC indicators) to assess the environmental impacts of bio-based products. More information can be found in the documents introduction section.
+
+bop_mobility.ipynb: 
+
+This is one of the first versions of a Python script I wrote at the JRC while working on the assessment of an average European citizen consumption environmental impacts using Life Cycle Assessment(LCA). To perform such assessment, first the average European citizen consumption goods and services were divided into several groups or Baskets of Products (BoP), such as food, appliances or mobility. In each BoP a number of products considered to be the most representative and the ones producing the largest environmental impacts were selected. Then, to apply LCA it was necessary to calculate each of the representative products consumption intensity, i.e. the amount of that product consumed in one year by one person. This implied retriving data from many different sources, harmonize it, modify it according to some previously taken methodological decisions and calculate the consumption intensities for each of the representative products. 
+
+For each Mobility BoP representative product (e.g. diesel cars, trucks, planes etc), bop_mobility retrieves data from EUROSTAT and EU Pocketbooks, filters it, completes it in case there are gaps, performs the necessary operations, merge it and calculates the consumption intensity.
+
