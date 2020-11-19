@@ -1,5 +1,3 @@
-I would like to add the following three files as a part of my spontaneous application to Vizzuality:
-
 Jorge_Ortigosa_MScThesis.pdf: 
 
 -I wrote my MSc Thesis on the possibility of assessing wind resource on complex terrain using Computational Fluid Techniques, for the commercial software was not able to properly assess wind resource in such areas. The motivation behind the thesis was to contribute to rural electrification and energy access in remote areas by means of renewable energy instead of generators or other pollutants systems. 
