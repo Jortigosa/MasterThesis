@@ -7,11 +7,8 @@ in remote areas by means of renewable energy instead of generators or other poll
 
 BIOMASS_Task5_Users_Guide.pdf: 
 
--This document is a guide to use a number of R scripts 
-I developed while working within the BIOMASS project at the European Commission Joint Research Centre (JRC). 
-The goal of the scripts was retrieving the outputs of two different models (CBM and GFTM) and, 
-together with data from other sources, calculate a number of indicators (based on the IPCC indicators) 
-to assess the environmental impacts of bio-based products. More information can be found in the documents introduction section.
+-This document is a guide to use a number of R scripts I developed while working within the BIOMASS project at the European Commission Joint Research Centre (JRC). 
+The goal of the scripts was retrieving the outputs of two different models (CBM and GFTM) and, together with data from other sources, calculate a number of indicators (based on the IPCC indicators) to assess the environmental impacts of bio-based products. More information can be found in the documents introduction section.
 
 bop_mobility.ipynb: 
 
