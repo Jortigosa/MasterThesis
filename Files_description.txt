@@ -12,6 +12,16 @@ The goal of the scripts was retrieving the outputs of two different models (CBM 
 together with data from other sources, calculate a number of indicators (based on the IPCC indicators) to assess the environmental impacts of bio-based products.
 More information can be found in the documents introduction section.
 
+ConsumerFP_Scripts_Guide(draft).pdf: 
+
+This is one of the first versions of guide to use the scripts I developed within a project which goal was to assess the EU countries average 
+citizen consumption environmental impacts using Life Cycle Assessment(LCA). To perform such assessment, first the EU countries average citizen
+consumption goods and services were divided into several groups or Baskets of Products (BoP), such as food, appliances or mobility. 
+In each BoP a number of products considered to be the most representative and the ones producing the largest environmental impacts were selected. 
+Then, in order to apply LCA it was necessary to calculate each of the representative products consumption intensity, i.e. the amount of that product 
+consumed in one year by one person. This implied retriving data from many different sources, harmonize it, modify it according to some previously 
+taken methodological decisions and calculate the consumption intensities for each of the representative products. 
+
 bop_mobility.ipynb: 
 
 This is one of the first versions of a Python script I wrote at the JRC while working on the assessment 
