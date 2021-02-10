@@ -22,9 +22,10 @@ Then, in order to apply LCA it was necessary to calculate each of the representa
 consumed in one year by one person. This implied retriving data from many different sources, harmonize it, modify it according to some previously 
 taken methodological decisions and calculate the consumption intensities for each of the representative products. 
 
-bop_mobility.ipynb: 
+bop_mobility: 
 
-This is one of the first versions of a Python script I wrote at the JRC while working on the assessment 
+This folder contains the elements (files and auxiliary jupyter notebook scripts) to run bop_mobility.ipynb, 
+which is one of the first versions of a Python script I wrote at the JRC while working on the assessment 
 of an average European citizen consumption environmental impacts using Life Cycle Assessment(LCA). 
 To perform such assessment, first the average European citizen consumption goods and services
 were divided into several groups or Baskets of Products (BoP), such as food, appliances or mobility. 
